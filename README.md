@@ -8,7 +8,7 @@ Aplicação API
 - Git
 - Docker
 
-## Build e execução
+## Build e execução (validação)
 
 ```sh
 docker compose up --build
